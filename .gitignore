@@ -1,5 +1,12 @@
 node_modules
 
+/.vscode
 /.cache
 /build
+/public
 .env
+
+/app/components/**/*.css
+/app/components/**/*.css.map
+/app/styles/**/*.css
+/app/styles/**/*.css.map
